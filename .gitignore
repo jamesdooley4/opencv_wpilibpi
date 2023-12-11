@@ -24,6 +24,9 @@ out/
 .gradle/
 build/
 
+# Visual Studio files
+.vs/
+
 # Local configuration file (sdk path, etc)
 local.properties
 
